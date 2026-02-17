@@ -1,4 +1,4 @@
 # Feature Branch Description
 
-Jira: SCRUM-17
+Jira: SCRUM-18
 Requirement: Spark connectors demo
